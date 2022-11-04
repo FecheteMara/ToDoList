@@ -12,7 +12,22 @@ This is a simple To Do List application. In this application you can add items a
 * mongodb
 
 ### 3. Getting Started
+a. Clone the repository
 
+```
+git clone https://github.com/FecheteMara/toDoList.git
+```
+
+b. Install NPM packages
+```
+npm install
+```
+c. Set-up your mongodb connection
+
+d. Run this command to start the application
+```
+nodemon app.js
+```
 ### 4. Usage
 
 a. In order to add an item to the list, type the new element in the "new item" section of the To Do List and hit the "+" button in order to add the item to the list.
